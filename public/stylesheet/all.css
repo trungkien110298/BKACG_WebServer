@@ -721,7 +721,7 @@ p {
 .plan .head {
     background: rgba(255, 255, 255, 0.05);
     padding: 8px 0 13px;
-    margin-bottom: 30px;
+    
 }
 
 .plan.recommended .head {
